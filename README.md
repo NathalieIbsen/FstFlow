@@ -1,7 +1,5 @@
 # FstFlow
-Estimating and analyzing Fst values with a smooth, flexible workflow. 
-
-
+Estimating and analyzing Fst values with a  flexible workflow. 
 
 
 Manual 1: Exploring the Fst Space cross samples
